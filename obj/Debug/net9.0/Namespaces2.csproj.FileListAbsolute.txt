@@ -1,0 +1,14 @@
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Namespaces2\obj\Debug\net9.0\Namespaces2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Namespaces2\obj\Debug\net9.0\Namespaces2.AssemblyInfoInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Namespaces2\obj\Debug\net9.0\Namespaces2.AssemblyInfo.cs
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Namespaces2\obj\Debug\net9.0\Namespaces2.csproj.CoreCompileInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Namespaces2\bin\Debug\net9.0\Namespaces2.exe
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Namespaces2\bin\Debug\net9.0\Namespaces2.deps.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Namespaces2\bin\Debug\net9.0\Namespaces2.runtimeconfig.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Namespaces2\bin\Debug\net9.0\Namespaces2.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Namespaces2\bin\Debug\net9.0\Namespaces2.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Namespaces2\obj\Debug\net9.0\Namespaces2.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Namespaces2\obj\Debug\net9.0\refint\Namespaces2.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Namespaces2\obj\Debug\net9.0\Namespaces2.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Namespaces2\obj\Debug\net9.0\Namespaces2.genruntimeconfig.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Namespaces2\obj\Debug\net9.0\ref\Namespaces2.dll
